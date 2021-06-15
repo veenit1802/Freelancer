@@ -1,0 +1,7 @@
+Australia
+ADL-Adelaide Airport
+ASP-Alice Springs Airport
+PER-Perth Airport
+SYD-Sydney Airport
+BNE-Brisbane Airport
+MEL-Melbourne Airport
