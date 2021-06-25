@@ -1,0 +1,6 @@
+main:
+	gcc tarea4.c -o tarea4 -lm
+	./tarea4 note.csv
+	cat out.txt
+clean:
+	rm -fr *.out my.txt *.o tarea4

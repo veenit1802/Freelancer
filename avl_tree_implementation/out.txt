@@ -1,0 +1,4 @@
+numero de alumnos: 3
+Promedio: 4.7
+minimo: 3.3
+maximo: 7.0
